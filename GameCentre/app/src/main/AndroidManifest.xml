@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="fall2018.csc2017.GameCentre">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="GameCentre"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".GameHubActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SlidingTilesStartingActivity" />
+        <activity android:name=".SlidingTilesGameActivity" />
+        <activity android:name=".UserScoreBoardActivity" />
+        <activity android:name=".GameScoreBoardActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".AlphabetTilesSettingsActivity" />
+        <activity android:name=".SlidingTilesSettingsActivity" />
+        <activity android:name=".SeaInvadersGameActivity" />
+        <activity android:name=".AlphabetTilesStartingActivity" />
+        <activity android:name=".AlphabetTilesGameActivity" />
+        <activity android:name=".SeaInvadersStartingActivity" />
+        <activity android:name=".SeaInvadersSettingsActivity"></activity>
+    </application>
+
+</manifest>
