@@ -138,4 +138,3 @@ scoreboard: me, also game launch center and timer functionality
 - git tutorial: https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
 - vscode: 
     - use for viewing conflicts
-# CSC207_project
