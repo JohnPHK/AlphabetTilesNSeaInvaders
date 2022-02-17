@@ -1,6 +1,3 @@
-# CS Project
-https://markus.teach.cs.toronto.edu/git/csc207-2018-09-reg/group_0684
-
 ### GAME #1: Sliding Tiles
 - The goal of this game is to exchange the blank tiles with its adjacent tiles to arrange the tiles in order.
 - Once the game is solved the game will be automatically resetted.
