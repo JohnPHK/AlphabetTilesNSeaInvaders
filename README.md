@@ -141,4 +141,4 @@ scoreboard: me, also game launch center and timer functionality
 ### Sample images
 
 Start page
-![alt text](github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/51Akzk6.png?raw=true)
+![](https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/51Akzk6.png)
