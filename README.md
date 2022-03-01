@@ -142,14 +142,15 @@ scoreboard: me, also game launch center and timer functionality
 
 Start screen
 
-
-![](https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/51Akzk6.png)
+<img src="https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/51Akzk6.png width="300" height="500">
 
 
 The game Alphabet Tiles
 
-![](https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/VuWxQOO.png)
+<img src="https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/VuWxQOO.png width="300" height="500">
 
+                                                                                  
 The game Sea Invaders
 
-![](https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/x4EXr9T.png)
+<img src="https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/x4EXr9T.png width="300" height="500">
+
