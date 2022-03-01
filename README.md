@@ -140,5 +140,16 @@ scoreboard: me, also game launch center and timer functionality
     - use for viewing conflicts
 ### Sample images
 
-Start page
+Start screen
+
+
 ![](https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/51Akzk6.png)
+
+
+The game Alphabet Tiles
+
+![](https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/VuWxQOO.png)
+
+The game Sea Invaders
+
+![](https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/x4EXr9T.png)
