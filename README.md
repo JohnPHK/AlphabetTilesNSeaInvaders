@@ -144,8 +144,8 @@ Here is an image of starting screen, the games alphabet tiles and sea invaders (
 
 <p float="left">
   <img src="https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/51Akzk6.png" width="200" height="400">
-  <img src="https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/VuWxQOO.png" width="300" height="600">
-  <img src="https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/x4EXr9T.png" width="300" height="600">
+  <img src="https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/VuWxQOO.png" width="200" height="400">
+  <img src="https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/x4EXr9T.png" width="200" height="400">
 </p>
 
 
