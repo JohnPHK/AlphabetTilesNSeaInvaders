@@ -1,3 +1,11 @@
+Image of starting screen, the games alphabet tiles and sea invaders (respectively from left to right):
+
+<p float="left">
+  <img src="https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/51Akzk6.png" width="200" height="400">
+  <img src="https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/VuWxQOO.png" width="200" height="400">
+  <img src="https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/x4EXr9T.png" width="200" height="400">
+</p>
+
 ### GAME #1: Sliding Tiles
 - The goal of this game is to exchange the blank tiles with its adjacent tiles to arrange the tiles in order.
 - Once the game is solved the game will be automatically resetted.
@@ -138,15 +146,8 @@ scoreboard: me, also game launch center and timer functionality
 - git tutorial: https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
 - vscode: 
     - use for viewing conflicts
-### Sample images
 
-Here is an image of starting screen, the games alphabet tiles and sea invaders (respectively from left to right):
 
-<p float="left">
-  <img src="https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/51Akzk6.png" width="200" height="400">
-  <img src="https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/VuWxQOO.png" width="200" height="400">
-  <img src="https://github.com/JohnPHK/AlphabetTilesNSeaInvaders/blob/master/x4EXr9T.png" width="200" height="400">
-</p>
 
 
 
